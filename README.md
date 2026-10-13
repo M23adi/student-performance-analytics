@@ -183,6 +183,10 @@ It covers all the core Python concepts taught in the course — functions, loops
 
 ---
 
+## Live Demo
+
+🌐 [https://student-performance-analytics-khaf7czsjvwblmv3qwnbao.streamlit.app](https://student-performance-analytics-khaf7czsjvwblmv3qwnbao.streamlit.app/)
+
 ## GitHub Repository
 
 🔗 [https://github.com/M23adi/student-performance-analytics](https://github.com/M23adi/student-performance-analytics)

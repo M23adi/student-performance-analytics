@@ -162,7 +162,9 @@ The program runs without errors and gives correct results for all calculations.
 
 ---
 
-## 10. GitHub Repository
+## 10. Live Demo & GitHub Repository
+
+🌐 [https://student-performance-analytics-khaf7czsjvwblmv3qwnbao.streamlit.app](https://student-performance-analytics-khaf7czsjvwblmv3qwnbao.streamlit.app/)
 
 🔗 [https://github.com/M23adi/student-performance-analytics](https://github.com/M23adi/student-performance-analytics)
 

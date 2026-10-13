@@ -4,7 +4,7 @@
 
 **Student Performance Analytics System**
 
-- **Student Name**: Medha
+- **Student Name**: Aditya Medhane
 - **Course**: Python with AI – EWB Courses
 - **Submission Date**: October 2026
 

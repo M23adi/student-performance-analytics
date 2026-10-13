@@ -8,7 +8,7 @@ A Python-based data analysis project that reads student records from a CSV file,
 
 | Detail           | Info                                      |
 |------------------|-------------------------------------------|
-| **Author**       | Medha                                     |
+| **Author**       | Aditya Medhane                            |
 | **Course**       | Python with AI – EWB Courses              |
 | **Date**         | October 2026                              |
 | **Language**     | Python 3.x                                |

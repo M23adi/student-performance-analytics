@@ -164,7 +164,7 @@ The program runs without errors and gives correct results for all calculations.
 
 ## 10. GitHub Repository
 
-🔗 [Repository Link](#) *(will be updated after pushing to GitHub)*
+🔗 [https://github.com/M23adi/student-performance-analytics](https://github.com/M23adi/student-performance-analytics)
 
 ---
 

@@ -185,7 +185,7 @@ It covers all the core Python concepts taught in the course — functions, loops
 
 ## GitHub Repository
 
-🔗 [Repository Link](#) *(will be updated after pushing to GitHub)*
+🔗 [https://github.com/M23adi/student-performance-analytics](https://github.com/M23adi/student-performance-analytics)
 
 ---
 
